@@ -41,7 +41,7 @@ img { box-shadow: 20px 20px 30px #A87242;}
 .grid-container {
     display: inline-grid;
     grid-template-columns: 50% 50%;
-    padding: 0px 5rem 2rem;
+    padding: 0px 10rem 2rem;
 }
 
 #section0 h1 {line-height: 0px;}
